@@ -1,5 +1,5 @@
 import React from 'react'
-import Carousel from '../images/carousel.svg'
+import Carousel from '../images/Carousel.svg'
 import teamPicture from "../images/teamPicture.svg";
 import '../App.css'
 import { useState } from 'react';
